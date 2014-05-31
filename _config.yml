@@ -6,5 +6,16 @@ baseurl: "/blog"
 url: "http://yourdomain.com"
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 permalink: pretty
+
+# Github Flavored Markdown
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - hard_wrap
+    - no_intra_emphasis
+    - autolink
+    - strikethrough
+    - fenced_code_blocks
