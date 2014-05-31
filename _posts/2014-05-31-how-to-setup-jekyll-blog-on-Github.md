@@ -40,7 +40,7 @@ tags: jekyll github
 * 启动jekyll开发服务器：```jekyll serve``` 参加(http://jekyllcn.com/docs/usage/)
 * **问题一**：jekyll build error: Liquid Exception Failed to get header. 解决方法是卸载pygments.rb 0.5.4版本 ```sudo gem uninstall pygments.rb```，安装pygments.rb 0.5.0版本 ```sudo gem install pygments.rb --version "=0.5.0"```。参见(http://stackoverflow.com/questions/17816499/jekyll-on-windows-liquid-exception-failed-to-get-header)
 * **问题二**：jekyll serve error: Address already in use - bind(2). 解决办法是关掉相应进程或重启terminal，参见(http://stackoverflow.com/questions/10261477/tcpserver-error-address-already-in-use-bind2)
-* **问题三**：如果遇到gem安装失败，请到(http://rubygems.org/)中搜索相应package name和version，下载本地后，通过```sudo gem install <PkgName> -l```安装。
+* **问题三**：如果遇到gem安装失败，请到[RubyGems](http://rubygems.org/)中搜索相应package name和version，下载本地后，通过```sudo gem install <PkgName> -l```安装。
 
 **4. 上传到Github**
 
