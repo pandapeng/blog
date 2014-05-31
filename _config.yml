@@ -1,0 +1,10 @@
+# Site settings
+title: Will's Github Blog
+email: pandapeng@outlook.com
+description: "Blog description"
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
