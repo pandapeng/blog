@@ -1,7 +1,7 @@
 # Site settings
-title: Will's Github Blog
+title: Pan Dapeng's Blog
 email: pandapeng@outlook.com
-description: "Blog description"
+description: "Hosted by Github"
 baseurl: "/blog"
 url: "http://yourdomain.com"
 
