@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "An amazing Mac Markdown editor: Mou"
 date:   2014-06-06 21:53:47
 categories: tools
 ---
