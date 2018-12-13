@@ -1,0 +1,14 @@
+# Files copied for Debian Packaging #
+packaging/usr
+packaging/DEBIAN/control
+packaging/etc
+packaging/lib
+# Debian Package #
+*.deb
+# Compiled source #
+*.pyc
+# Garbage #
+?
+#PyCharm
+.idea
+.sass-cache

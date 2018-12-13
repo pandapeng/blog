@@ -1,11 +1,13 @@
 ---
+bg: "jekyll_github.jpg"
 layout: post
+summary: "Setup jekyll blog in details(Chinese)"
 title:  "How to setup jekyll Blog on Github"
 date:   2014-06-01 09:30:00
-categories: jekyll
-tags: jekyll github
+categories: posts
+tags: ['jekyll']
+author: Pan Dapeng
 ---
-
 今天试着建立一个基于Github的Blog。过程并不复杂，并对Ruby，RubyGems，jekyll，Markdown等有了初步的了解，以后就可以通过git来管理自己的Blog了！安装及配置过程如下，作为Github Blog的第一个post。
 
 **系统**：OSX 10.9.3

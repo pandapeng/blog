@@ -1,8 +1,11 @@
 ---
+bg: "tiger.jpg"
 layout: post
 title:  "An amazing Mac Markdown editor: Mou"
 date:   2014-06-06 21:53:47
-categories: tools
+categories: posts
+tags: ['markdown']
+author: Pan Dapeng
 ---
 
 Introduce a great Markdown editor on Mac: [Mou](http://mouapp.com/)

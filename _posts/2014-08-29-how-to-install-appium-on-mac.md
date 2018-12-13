@@ -1,10 +1,12 @@
 ---
+bg: "appium.png"
 layout: post
 title:  "How to install Appium on Mac"
 date:   2014-08-29 10:53:47
-categories: Automation Appium
+categories: posts
+tags: ['appium']
+author: Pan Dapeng
 ---
-
 
 * Install node.js
     * Download Mac installer of node.js. [Click to download](http://nodejs.org/dist/v0.10.31/node-v0.10.31.pkg)

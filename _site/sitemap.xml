@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://localhost:4001/posts/2016/06/29/es6.html</loc>
+    
+      <lastmod>2016-06-29</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4001/posts/2014/08/29/how-to-install-appium-on-mac.html</loc>
+    
+      <lastmod>2014-08-29</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4001/posts/2014/06/07/Mac-Markdown-editor-Mou.html</loc>
+    
+      <lastmod>2014-06-07</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4001/posts/2014/06/01/how-to-setup-jekyll-blog-on-Github.html</loc>
+    
+      <lastmod>2014-06-01</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4001/posts/2014/05/31/welcome-to-jekyll.html</loc>
+    
+      <lastmod>2014-05-31</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+    <url>
+      <loc>http://localhost:4001/sitemap.xml</loc>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+    
+  
+
+</urlset>

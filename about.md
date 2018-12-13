@@ -1,11 +1,19 @@
 ---
+bg: "owl.jpg"
 layout: page
-title: About me
-permalink: /aboutme/
+title: "About"
+crawlertitle: "Why and how this blog was created"
+permalink: /about/
+summary: "About this blog"
+active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+"Man's dearest possession is life. It is given to him but once, and he must live it so as to feel no torturing regrets for wasted years, never know the burning shame of a mean and petty past; so live that, dying, he might say: all my life, all my strength were given to the finest cause in all the world──the fight for the Liberation of Mankind."
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+You can find the source code for the Jekyll new theme at:
+{{site.twitter_username}} /
+[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+You can find the source code for Jekyll at
+{{site.github_username}} /
+[jekyll](https://github.com/jekyll/jekyll)
