@@ -2,6 +2,7 @@
 bg: "appium.png"
 layout: post
 title:  "How to install Appium on Mac"
+crawlertitle: "How to install Appium on Mac -- by Pan Dapeng"
 date:   2014-08-29 10:53:47
 categories: posts
 tags: ['appium']

@@ -2,6 +2,7 @@
 bg: "jekyll_github.jpg"
 layout: post
 summary: "Setup jekyll blog in details(Chinese)"
+crawlertitle: "How to setup jekyll Blog on Github -- by Pan Dapeng"
 title:  "How to setup jekyll Blog on Github"
 date:   2014-06-01 09:30:00
 categories: posts

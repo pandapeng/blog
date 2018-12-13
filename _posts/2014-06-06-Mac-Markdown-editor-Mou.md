@@ -2,6 +2,7 @@
 bg: "tiger.jpg"
 layout: post
 title:  "An amazing Mac Markdown editor: Mou"
+crawlertitle: "An amazing Mac Markdown editor: Mou -- Pan Dapeng's blog"
 date:   2014-06-06 21:53:47
 categories: posts
 tags: ['markdown']

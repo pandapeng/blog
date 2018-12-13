@@ -2,6 +2,7 @@
 bg: "panda.jpg"
 layout: post
 summary: "First post with Jekyll and Github"
+crawlertitle: "Welcome to Jekyll! -- by Pan Dapeng"
 title:  "Welcome to Jekyll!"
 date:   2014-05-31 15:12:47
 categories: posts
