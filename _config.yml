@@ -21,4 +21,4 @@ redcarpet:
     - strikethrough
     - fenced_code_blocks
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
