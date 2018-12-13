@@ -3,8 +3,8 @@ username: pandapeng
 title: Pan Dapeng's Blog
 email: pandapeng@outlook.com
 description: "Hosted by Github"
-baseurl: "/blog"
-url: "http://yourdomain.com"
+baseurl: "/"
+url: "http://pandapeng.github.io"
 
 # Build settings
 #markdown: kramdown
